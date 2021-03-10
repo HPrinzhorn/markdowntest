@@ -10,5 +10,5 @@ This is a pretty cool markdown set up.
 
 Add a paragraph
 
-![This is the alt tag](vim-cheat-sheet.git)
+![This is the alt tag](vim-cheat-sheet.png)
 
